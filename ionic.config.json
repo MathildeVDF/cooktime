@@ -1,0 +1,8 @@
+{
+  "name": "CookTime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "fa1e6992"
+}
